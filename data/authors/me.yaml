@@ -7,7 +7,7 @@ name:
   family: ZHAO
   alternate: '赵洪豪'  
   pronunciation: ''  
-  pronouns: he
+  pronouns: male
 postnominals:
   - B.S.
 status:
@@ -91,9 +91,9 @@ skills:
       - label: Western Blot
         level: 5
       - label: Polymerase Chain Reaction
-        level: 4
+        level: 5
       - label: Gel Electrophoresis
-        level: 4
+        level: 5
 
 languages:
   - name: English
@@ -102,10 +102,9 @@ languages:
   - name: Chinese
     level: 5
     label: Native
-
 #awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+#  - title: Best Paper Award
+#    awarder: NeurIPS
+#    date: "2022-12-01"
+#    summary: Awarded for groundbreaking work on efficient training of large models.
+#    icon: hero/trophy
