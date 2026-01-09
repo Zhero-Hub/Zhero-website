@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 publication: "BMC Genomics"
 publication_short: ""
 
-abstract: 
+abstract: |
 Background
 DNA N6-methyladenosine (6mA), as an important epigenetic modification, widely exists in bacterial genomes and participates in the regulation of toxicity, antibiotic resistance, and antioxidant. With the continuous development of sequencing technology, more 6mA sites have been identified in bacterial genomes, but few studies have focused on the distribution characteristics of 6mA at the whole-genome level and its association with gene expression and function.
 

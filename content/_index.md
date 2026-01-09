@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: "Zhero's website"
 summary: "Welcome to Zhero's Hub"
-date: 2026-1-9
+date: 2026-01-09
 type: landing
 
 design:
