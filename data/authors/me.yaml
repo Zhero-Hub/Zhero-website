@@ -25,7 +25,7 @@ links:
     icon_pack: fas
     url: 'mailto:honghaozhao.bio@gmail.com'
     label: E-mail Me
-  - icon: researchgate
+  - icon: r
     url: https://www.researchgate.net/profile/Honghao-Zhao-9?ev=prf_overview
   - icon: brands/github
     url: https://github.com/Zhero-Hub
