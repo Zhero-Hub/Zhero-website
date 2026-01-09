@@ -42,7 +42,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-	  
+  
         My primary focus lies in bioinformatics, employing computational methods to address biological challenges, encompassing but not limited to genomics, multi-omics analysis, and evolutionary genomics.
 
         Moving forward, I aspire to pursue AI for science, further refining my computational skills and interdisciplinary knowledge.
