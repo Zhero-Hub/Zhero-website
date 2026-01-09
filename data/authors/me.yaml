@@ -25,8 +25,7 @@ links:
     icon_pack: fas
     url: 'mailto:honghaozhao.bio@gmail.com'
     label: E-mail Me
-  - icon: researchgate
-    icon_pack: fab
+  - icon: brands/researchgate
     url: https://www.researchgate.net/profile/Honghao-Zhao-9?ev=prf_overview
   - icon: brands/github
     url: https://github.com/Zhero-Hub
@@ -71,7 +70,7 @@ education:
 #      text: View portfolio
 #      url: /
 #      icon: hero/arrow-down-tray
-  - role: AI Research Intern
+#  - role: AI Research Intern
     org: OpenAI
     start: 2019-06-01
     end: 2019-12-31
@@ -79,32 +78,32 @@ education:
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 skills:
-  - name: Technical Skills
+  - name: Dry Lab
     items:
-      - label: Python
+      - label: Genomics analysis
         level: 5
-      - label: Machine Learning
+      - label: multi-omics analysis
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
+      - label: Phylogenomics analysis
+        level: 5
+  - name: Wet Lab
     items:
-      - label: Academic Writing
+      - label: Western Blot
         level: 5
-      - label: Conference Presentations
+      - label: Polymerase Chain Reaction
         level: 4
-      - label: Grant Proposals
+      - label: Gel Electrophoresis
         level: 4
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
+  - name: Chinese
+    level: 5
+    label: Native
 
-awards:
+#awards:
   - title: Best Paper Award
     awarder: NeurIPS
     date: "2022-12-01"
