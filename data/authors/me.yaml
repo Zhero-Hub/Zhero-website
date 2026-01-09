@@ -22,11 +22,9 @@ affiliations:
 
 links:
   - icon: solid/envelope
-    icon_pack: fas
     url: 'mailto:honghaozhao.bio@gmail.com'
     label: E-mail Me
   - icon: brands/researchgate
-    icon_pack: fab
     url: https://www.researchgate.net/profile/Honghao-Zhao-9?ev=prf_overview
   - icon: brands/github
     url: https://github.com/Zhero-Hub
