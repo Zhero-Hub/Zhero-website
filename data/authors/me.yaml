@@ -16,12 +16,6 @@ role: Master student in Bioinformatics
 bio: |
   My name is Honghao ZHAO, I am master student in Ocean Univerisity of china. 
 
-  <br>
-
-  | Language | Overall | Breakdown |
-  | :--- | :--- | :--- |
-  | 🇨🇳 Chinese | Native | - |
-  | 🇬🇧 **English** | **IELTS: 6.5** | 👂7 &nbsp; 📖 <br> ✍️6 &nbsp; 🗣️5 |
 affiliations:
   - name: Institute of Evolution & Marine Biodiversity, OUC
     url: https://iemb.ouc.edu.cn/main.htm
@@ -31,7 +25,7 @@ links:
     icon_pack: fas
     url: 'mailto:honghaozhao.bio@gmail.com'
     label: E-mail Me
-  - icon: brands/researchgate
+  - icon: researchgate
     url: https://www.researchgate.net/profile/Honghao-Zhao-9?ev=prf_overview
   - icon: brands/github
     url: https://github.com/Zhero-Hub
@@ -50,7 +44,7 @@ interests:
   - AI for science
 
 education:
-  - degree: M.Sc. in Biology (Bioinformatics)
+  - degree: M.Sc. Biology (Bioinformatics)
     institution: Ocean Univerisity of China
     start: 2024-08-01
     end: 
