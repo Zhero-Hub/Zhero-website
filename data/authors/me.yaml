@@ -30,7 +30,7 @@ links:
   - icon: brands/github
     url: https://github.com/Zhero-Hub
   - icon: brands/weixin
-    url: zhero0713
+    url: '/images/wechat.jpg'
     label: WeChat
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=5WJSQJ4AAAAJ&hl=en
