@@ -9,20 +9,20 @@ name:
   pronunciation: ''  
   pronouns: he
 postnominals:
-  - Master
+  - B.S.
 status:
   icon: "☕️"
-role: A bioinformatics master student
+role: Master student in Bioinformatics
 bio: |
-  My name is Honghao ZHAO, I am master student in Ocean Univeristy of china. 
+  My name is Honghao ZHAO, I am master student in Ocean Univerisity of china. 
 
 affiliations:
-  - name: Institue of Evolution & Marine Biodiveristy, OUC
+  - name: Institute of Evolution & Marine Biodiversity, OUC
     url: https://iemb.ouc.edu.cn/main.htm
 
 links:
-  - icon: at-symbol
-    url: honghaozhao.bio@gmail.com
+  - icon: solid/envelope
+    url: 'mailto:honghaozhao.bio@gmail.com'
     label: E-mail Me
   - icon: brands/researchgate
     url: https://www.researchgate.net/profile/Honghao-Zhao-9?ev=prf_overview
@@ -30,6 +30,7 @@ links:
     url: https://github.com/Zhero-Hub
   - icon: brands/weixin
     url: zhero0713
+    label: WeChat
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=5WJSQJ4AAAAJ&hl=en
   - icon: academicons/orcid
@@ -42,35 +43,32 @@ interests:
   - AI for science
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS biology
-    institution: Ocean Univeristy of China
+  - degree: M.Sc. in Biology (Bioinformatics)
+    institution: Ocean Univerisity of China
     start: 2024-08-01
     end: present
-  - degree: BS Biotechnology
+    summary: |
+      Focusing on genomics-based investigation of biodiversity  adaptation in the special environments, i use comparative genomics to elucidate the adaptation mechanisms of Deep-Sea mussels to chemosynthetic environments and genomic analysis of Osteopeltidae indet. and elucidate genes related to chitinase.
+
+#    button:
+#      text: Download dissertation
+#      url: /resume.pdf
+#      icon: hero/arrow-down-tray
+  - degree: B.S. Biotechnology
     institution: Hainan University
     start: 2020-09-01
     end: 2024-07-31
 
-experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
+#experience:
+#  - role: Senior AI Research Scientist
+#    org: Meta AI
+#    start: 2020-01-01
+#    summary: |
+#      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+#    button:
+#      text: View portfolio
+#      url: /
+#      icon: hero/arrow-down-tray
   - role: AI Research Intern
     org: OpenAI
     start: 2019-06-01
