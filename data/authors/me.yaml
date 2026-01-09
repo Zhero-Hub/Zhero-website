@@ -16,6 +16,12 @@ role: Master student in Bioinformatics
 bio: |
   My name is Honghao ZHAO, I am master student in Ocean Univerisity of china. 
 
+  <br>
+
+  | Language | Overall | Breakdown |
+  | :--- | :--- | :--- |
+  | 🇨🇳 Chinese | Native | - |
+  | 🇬🇧 **English** | **IELTS: 6.5** | 👂7 &nbsp; 📖 <br> ✍️6 &nbsp; 🗣️5 |
 affiliations:
   - name: Institute of Evolution & Marine Biodiversity, OUC
     url: https://iemb.ouc.edu.cn/main.htm
@@ -98,7 +104,7 @@ skills:
 languages:
   - name: English
     level: 5
-    label: Fluent
+    label: "IELTS:6.5"
   - name: Chinese
     level: 5
     label: Native
