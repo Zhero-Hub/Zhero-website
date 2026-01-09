@@ -24,14 +24,14 @@ publication: "BMC Genomics"
 publication_short: ""
 
 abstract: |
-Background
-DNA N6-methyladenosine (6mA), as an important epigenetic modification, widely exists in bacterial genomes and participates in the regulation of toxicity, antibiotic resistance, and antioxidant. With the continuous development of sequencing technology, more 6mA sites have been identified in bacterial genomes, but few studies have focused on the distribution characteristics of 6mA at the whole-genome level and its association with gene expression and function.
+  Background
+  DNA N6-methyladenosine (6mA), as an important epigenetic modification, widely exists in bacterial genomes and participates in the regulation of toxicity, antibiotic resistance, and antioxidant. With the continuous development of sequencing technology, more 6mA sites have been identified in bacterial genomes, but few studies have focused on the distribution characteristics of 6mA at the whole-genome level and its association with gene expression and function.
 
-Results
-This study conducted an in-depth analysis of the 6mA in the genomes of two pathogenic bacteria, Aeromonas veronii and Helicobacter pylori. The results showed that the 6mA was widely distributed in both strains. In A. veronii, 6mA sites were enriched at 3’ end of protein-coding genes, exhibiting a certain inhibitory effect on gene expression. Genes with low 6mA density were associated with cell motility. While in H. pylori, 6mA sites were enriched at 5’ end of protein-coding genes, potentially enhancing gene expression. Genes with low 6mA density were closely related to defense mechanism.
+  Results
+  This study conducted an in-depth analysis of the 6mA in the genomes of two pathogenic bacteria, Aeromonas veronii and Helicobacter pylori. The results showed that the 6mA was widely distributed in both strains. In A. veronii, 6mA sites were enriched at 3’ end of protein-coding genes, exhibiting a certain inhibitory effect on gene expression. Genes with low 6mA density were associated with cell motility. While in H. pylori, 6mA sites were enriched at 5’ end of protein-coding genes, potentially enhancing gene expression. Genes with low 6mA density were closely related to defense mechanism.
 
-Conclusions
-This study elucidated the distribution characteristics of 6mA in A. veronii and H. pylori, highlighting the effects of 6mA on gene expression and function. These findings provide valuable insights into the epigenetic regulation and functional characteristics of A. veronii and H. pylori.
+  Conclusions
+  This study elucidated the distribution characteristics of 6mA in A. veronii and H. pylori, highlighting the effects of 6mA on gene expression and function. These findings provide valuable insights into the epigenetic regulation and functional characteristics of A. veronii and H. pylori.
 
 # Summary. An optional shortened abstract.
 
