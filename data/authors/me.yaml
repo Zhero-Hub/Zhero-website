@@ -22,9 +22,11 @@ affiliations:
 
 links:
   - icon: solid/envelope
+    icon_pack: fas
     url: 'mailto:honghaozhao.bio@gmail.com'
     label: E-mail Me
   - icon: brands/researchgate
+    icon_pack: fab
     url: https://www.researchgate.net/profile/Honghao-Zhao-9?ev=prf_overview
   - icon: brands/github
     url: https://github.com/Zhero-Hub
@@ -46,7 +48,7 @@ education:
   - degree: M.Sc. in Biology (Bioinformatics)
     institution: Ocean Univerisity of China
     start: 2024-08-01
-    end: present
+    end: 
     summary: |
       Focusing on genomics-based investigation of biodiversity  adaptation in the special environments, i use comparative genomics to elucidate the adaptation mechanisms of Deep-Sea mussels to chemosynthetic environments and genomic analysis of Osteopeltidae indet. and elucidate genes related to chitinase.
 
