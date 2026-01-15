@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Selected Awards
       text: Here are a selection of Awards that I have worked on over the years.
       filters:
         folders:

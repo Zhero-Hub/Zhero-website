@@ -14,7 +14,7 @@ status:
   icon: "☕️"
 role: Master student in Bioinformatics
 bio: |
-  My name is Honghao ZHAO, I am master student in Ocean Univerisity of china. 
+  Hi, I am a Master student in the Department of Institute of Evolution & Marine Biodiversity at Ocean University of China, advised by Prof. Jin SUN. Prior to this, I obtained my B.S. degree from Hainan University in 2024. My research interests lie broadly in Bioinformatics, with a specific focus on Genomics and multi-omics. I am always open to discussions and collaborations. Feel free to reach out to me via email at honghaozhao.bio@gmail.com. 
 
 affiliations:
   - name: Institute of Evolution & Marine Biodiversity, OUC
@@ -45,7 +45,7 @@ interests:
 
 education:
   - degree: M.Sc. Biology (Bioinformatics)
-    institution: Ocean Univerisity of China
+    institution: Ocean University of China
     start: 2024-08-01
     end: 
     summary: |
