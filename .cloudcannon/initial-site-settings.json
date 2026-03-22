@@ -1,0 +1,23 @@
+{
+  "ssg": "hugo",
+  "mode": "hosted",
+  "build": {
+    "hugoVersion": "0.157.0",
+    "rubyVersion": "3.4.8",
+    "nodeVersion": "22",
+    "denoVersion": "2.7.1",
+    "output_path": "public",
+    "environment_variables": [
+      {
+        "key": "HUGO_CACHEDIR",
+        "value": "/usr/local/__site/src/.hugo_cache/"
+      }
+    ],
+    "install_command": "pnpm i",
+    "build_command": "pnpm build &&     set -e\n    echo \"=== Starting Blog build process ===\"\n    echo \"Node version: $(node --version)\"\n    echo \"pnpm version: $(pnpm --version)\"\n    echo \"Hugo version: $(hugo version)\"\n    echo \"Go version: $(go version || echo 'Go not available')\"\n    \n    echo \"=== Installing dependencies ===\"\n    pnpm install --verbose --no-frozen-lockfile\n    \n    echo \"=== Running Hugo build ===\"\n    hugo --gc --minify -b $URL --logLevel debug --printI18nWarnings --printPathWarnings\n    \n    echo \"=== Running Pagefind indexing ===\"\n    pnpm run pagefind\n    \n    echo \"=== Build completed successfully ===\"\n   && hugo -b /",
+    "preserved_paths": "node_modules/,resources/,.hugo_cache/",
+    "preserveOutput": true,
+    "includeGit": true,
+    "manually_configure_urls": true
+  }
+}
